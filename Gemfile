@@ -9,5 +9,5 @@ gem 'jekyll-plantuml', '~> 1.3'
 
 group :jekyll_plugins do
   gem 'asciidoctor-diagram', '~> 2.0'
-  gem 'jekyll-asciidoc'
+  gem 'jekyll-asciidoc', '~> 2.1'
 end
