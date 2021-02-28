@@ -15,3 +15,17 @@ Altera eruditi nam et, in vim veniam option probatus. Ei delicata adolescens quo
 Tale vide scripserit pro id. Habeo latine percipit et mea, eos at nusquam principes conclusionemque. Ei possim eirmod euripidis his. Ei his veri choro, omnesque vituperata theophrastus nec no.
 
 In quo debet iriure adolescens, nec molestie accusata ad, sea te malis atomorum petentium. Convenire corrumpit id vis, ad accumsan interesset usu. Esse dictas sea ne. Cum constituto deterruisset no, vim laudem doctus at. Nam dicat zril ea, mei omnesque explicari pertinacia ea. Nihil dicunt aliquam nam ne.
+
+[plantuml, plantuml-example, svg]
+----
+@startuml
+
+class Dummy {
+ -field1
+ #field2
+ ~method1()
+ +method2()
+}
+
+@enduml
+----
