@@ -10,7 +10,7 @@ keep_files:
 - images
 asciidoc: {}
 asciidoctor:
-  base_dir: :docdir
+  # base_dir: :docdir
   imagesdir: /images
   safe: unsafe
   attributes:

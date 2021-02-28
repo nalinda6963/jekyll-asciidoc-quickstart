@@ -16,7 +16,7 @@ Tale vide scripserit pro id. Habeo latine percipit et mea, eos at nusquam princi
 
 In quo debet iriure adolescens, nec molestie accusata ad, sea te malis atomorum petentium. Convenire corrumpit id vis, ad accumsan interesset usu. Esse dictas sea ne. Cum constituto deterruisset no, vim laudem doctus at. Nam dicat zril ea, mei omnesque explicari pertinacia ea. Nihil dicunt aliquam nam ne.
 
-[plantuml, plantuml-example, svg]
+[plantuml, plantuml-example-2, svg]
 ----
 @startuml
 

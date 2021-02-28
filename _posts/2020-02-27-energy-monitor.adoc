@@ -17,7 +17,7 @@ This monitoring system is current transformation (`CT`) clamp based implementati
 === Future Enhancements
 
 
-[plantuml, plantuml-example, svg]
+[plantuml, plantuml-example-1, svg]
 ----
 @startuml
 :Main Admin: as Admin
