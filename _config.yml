@@ -6,11 +6,17 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - Rakefile
+keep_files:
+- images
 asciidoc: {}
 asciidoctor:
   base_dir: :docdir
+  imagesdir: /images
   safe: unsafe
   attributes:
     - idseparator=_
-    - source-highlighter=coderay
+    - source-highlighter=pygments
+    - pygments-css=style
     - icons=font
+    - iconsdir=/images/icons
+    - stem
